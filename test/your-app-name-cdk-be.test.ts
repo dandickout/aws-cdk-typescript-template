@@ -1,13 +1,13 @@
 // import * as cdk from 'aws-cdk-lib';
 // import { Template } from 'aws-cdk-lib/assertions';
-// import * as PortfolioTrackerCdkBe from '../lib/portfolio-tracker-cdk-be-stack';
+// import * as YourAppNameCdkBe from '../lib/your-app-name-cdk-be-stack';
 
 // example test. To run these tests, uncomment this file along with the
-// example resource in lib/portfolio-tracker-cdk-be-stack.ts
+// example resource in lib/your-app-name-cdk-be-stack.ts
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //     // WHEN
-//   const stack = new PortfolioTrackerCdkBe.PortfolioTrackerCdkBeStack(app, 'MyTestStack');
+//   const stack = new YourAppNameCdkBe.YourAppNameCdkBeStack(app, 'MyTestStack');
 //     // THEN
 //   const template = Template.fromStack(stack);
 
